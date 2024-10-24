@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500">
+  <title>envelope</title>
+  <desc>Created with Sketch.</desc>
+  <g id="Design---Web" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="matrix(8.65465, 0, 0, 8.65465, 206.616379, 133.880676)" style="">
+    <g id="Enriched-Profile" transform="translate(-932.000000, -526.000000)" stroke="#6A7582" stroke-width="1.5">
+      <g id="Group-2" transform="translate(912.000000, 503.000000)">
+        <g id="envelope" transform="translate(21.000000, 24.000000)">
+          <path d="M2.5,0 L22.5,0 C23.9166667,0 25,1.05238095 25,2.42857143 L25,14.5714286 C25,15.947619 23.9166667,17 22.5,17 L2.5,17 C1.08333333,17 0,15.947619 0,14.5714286 L0,2.42857143 C0,1.05238095 1.08333333,0 2.5,0 Z" id="backtPannel" style="fill: rgb(255, 255, 255); stroke: rgba(106, 117, 130, 0);"/>
+          <path d="M1.19512195,1.17241379 L11.9081736,9.08688449 C12.6370209,9.62533427 13.636821,9.60646626 14.3448335,9.04090039 L24.195122,1.17241379 L24.195122,1.17241379" id="Path-6" style="stroke: rgba(106, 117, 130, 0);"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
